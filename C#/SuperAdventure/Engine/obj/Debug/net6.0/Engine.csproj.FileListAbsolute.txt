@@ -1,0 +1,12 @@
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\richa\Desktop\myRepo\C\C#\SuperAdventure\Engine\obj\Debug\net6.0\ref\Engine.dll
